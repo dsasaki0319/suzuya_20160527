@@ -2,7 +2,7 @@ package syain;
 
 public class chkLoadJdbc {
 
-
+ /* testです */
 	public static void main(String[] args) throws InstantiationException, IllegalAccessException {
 		String msg = "";
 		try{
